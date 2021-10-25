@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-       <title> 5 Epic Facts about Donkeys </title>
+     <title> 5 Epic Facts about Donkeys </title>
        <style>
            h2 {font-weight: bold; color: green; font-family: cursive;}
            h1 {font-weight: bold; color: red; font-family: cursive; }
@@ -11,6 +9,9 @@
            body {background-color: silver; text-align:center;}
            #insidelinks {text-align: left; }
        </style>
+    <head>
+        <meta charset="utf-8">
+      
        </head>
        <body>
        <h1> 5 Epic Facts About Donkeys </h1>
